@@ -11,5 +11,5 @@ https://testnet.bscscan.com/address/0x95c56e0027199a3801a0D6394E6f8820EF1334fc
 ## LP Token Pool Contract [ERC20StakingPool.sol] :
 https://testnet.bscscan.com/address/0xac0cf24213c850c2996665485a43c9c0b479c14d
 
-### Pool Execution Time Period : Unix Time 1679257970 - 1679875200
+### Pool Reward Time Period : Unix Time 1679257970 - 1679875200
 (Around 7 days to Date and time (GMT): Monday 27 March 2023 00:00:00)
